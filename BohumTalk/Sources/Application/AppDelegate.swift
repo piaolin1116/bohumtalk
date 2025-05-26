@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         FirebaseApp.configure()
         
         Messaging.messaging().delegate = self
-
+//dsafasdf
         UNUserNotificationCenter.current().delegate = self
         
         UNUserNotificationCenter.current().getNotificationSettings { [weak self] settings in
