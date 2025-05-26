@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BohumTalk" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--기본스플래시스크린 투명처리-->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>

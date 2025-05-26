@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311692419865",
+    "project_id": "bohumtalk",
+    "storage_bucket": "bohumtalk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311692419865:android:7475c66da27e84454c9b88",
+        "android_client_info": {
+          "package_name": "com.bohumtalk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCga8Bg3FQwmEih7VBHNd6cPIof49uGpUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
